@@ -448,7 +448,7 @@
 			<version>1.0.16</version>
 		</dependency>
 		
-		<dependency>
+		<!--<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>dubbo</artifactId>
 			<version>2.4.9</version>
@@ -464,7 +464,7 @@
 			<groupId>com.101tec</groupId>
 			<artifactId>zkclient</artifactId>
 			<version>0.4</version>
-		</dependency>
+		</dependency>-->
 		
 		<dependency>
             <groupId>org.nutz</groupId>
